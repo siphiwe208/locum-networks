@@ -1,0 +1,101 @@
+.locumnetworks-logo {
+font-family: fontawesome;
+text-decoration: none;
+font-size: 250%;
+color: navy;
+float: left; 
+margin-right: 0;
+margin-left: 2%;
+font-weight: bolder;
+padding: 1%;
+margin-top: 0;
+}
+.header {
+    margin:0;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    padding-bottom: 2%;
+    padding-top: 1%;
+}
+.dotcom {
+    color: darkred;
+}
+body {
+    font-family: "Open Sans",Arial,Helvetica,sans-serif;
+    margin: 0;
+}
+nav {
+    margin-right: 0;
+    margin-left: 40%;
+    margin-top: 2%;
+    font-weight: 600;
+}
+
+.nav_links {
+    color: navy;
+    text-decoration: none;
+    padding: 1%;
+}
+
+.nav_links:hover { 
+   color:navy;
+   border-bottom: solid;
+   border-bottom-color: navy;
+   padding-bottom: 1%;
+}
+.nav_links:active {
+   color: darkred;
+   border-bottom: solid;
+   border-bottom-color: darkred;
+   padding-bottom: 1%;
+   
+}
+#login {
+    color: navy;
+    font-weight: 600;
+    font-size: large;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#register_button {
+    margin-right: 0;
+    font-size: large;
+    padding: 1.5%;
+    color: white;
+    background-color: rgb(27, 27, 170);;
+    border: none;
+    border-radius: 5%;
+}
+#register_button:hover {
+    background-color:navy;
+    border-bottom-color: black;
+    border-top-color: black;
+}
+#login:hover {
+    border-bottom-color: navy;
+    border-top-color: navy;
+}
+
+#login:active {
+    text-decoration: underline;
+}
+#register_button:active {
+    text-decoration: underline;
+}
+
+#hero_content {
+    background-image: url("");
+}
+.current_link {
+    color: darkred;
+    padding: 1%;
+    border-bottom: solid;
+    border-bottom-color: darkred;
+    text-decoration: none;
+}
+.current_link:hover {
+    color: navy;
+    padding: 1%;
+    border-bottom-color: navy;
+    text-decoration: none;
+}
